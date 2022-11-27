@@ -1,7 +1,7 @@
 import mysql.connector
 
 config = {
-    "user": "movies_user",
+    "user": "root",
     "password": "popcorn",
     "host": "localhost",
     "database": "movies",
